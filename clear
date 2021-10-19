@@ -1,0 +1,51 @@
+[33mcommit aa2b08af1f34b75017a70e61a18ca06691090f04[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 90c92f8 c1c23b7
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:39:34 2021 +0530
+
+    merge branch 'feature'
+    
+    my first merge commit with sep branches
+
+[33mcommit c1c23b726e2b864400797216f78669d22a832262[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:34:42 2021 +0530
+
+    trying merge
+
+[33mcommit 90c92f845b5aa27027a99227af0a5e4cfa48f2be[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:32:00 2021 +0530
+
+    nkil kili added to gai
+
+[33mcommit b8ee11a6790d880c796db643d7ae3d5c7f52b8af[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 19c5135 6d8f8d6
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:27:41 2021 +0530
+
+    WIP on master: 19c5135 we have added a line to hai
+
+[33mcommit 6d8f8d6495d70145248a91126931b004889ffb2e[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:27:41 2021 +0530
+
+    index on master: 19c5135 we have added a line to hai
+
+[33mcommit 19c5135dfd1094c405fad6bccd9ca2ca1a7e5a26[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:08:59 2021 +0530
+
+    we have added a line to hai
+
+[33mcommit 7d3eab7a769975022c311634ee3e718156f13456[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 00:34:36 2021 +0530
+
+     i have added a new line
+
+[33mcommit 8c84422f869d7de42027feffd7a24e1f3b2b880c[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 00:28:22 2021 +0530
+
+     my first commit
