@@ -1,0 +1,63 @@
+[33mcommit ecd17091cbfc72aa065cd54f03c4b8639bd21cd1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 02:49:13 2021 +0530
+
+    new pus
+
+[33mcommit e489d888f406fcdf17acfe40416253b5bb56063a[m
+Merge: 94e1417 215ba19
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 02:00:23 2021 +0530
+
+    merfeeee
+
+[33mcommit 94e1417d1c719f35e34fa3d216206970a163cd82[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:57:28 2021 +0530
+
+    feat changes
+
+[33mcommit 215ba19a42ba9d5cf33be4d34fd88fecb62d5aa0[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:56:02 2021 +0530
+
+    masteer changes
+
+[33mcommit aa2b08af1f34b75017a70e61a18ca06691090f04[m
+Merge: 90c92f8 c1c23b7
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:39:34 2021 +0530
+
+    merge branch 'feature'
+    
+    my first merge commit with sep branches
+
+[33mcommit c1c23b726e2b864400797216f78669d22a832262[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:34:42 2021 +0530
+
+    trying merge
+
+[33mcommit 90c92f845b5aa27027a99227af0a5e4cfa48f2be[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:32:00 2021 +0530
+
+    nkil kili added to gai
+
+[33mcommit 19c5135dfd1094c405fad6bccd9ca2ca1a7e5a26[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 01:08:59 2021 +0530
+
+    we have added a line to hai
+
+[33mcommit 7d3eab7a769975022c311634ee3e718156f13456[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 00:34:36 2021 +0530
+
+     i have added a new line
+
+[33mcommit 8c84422f869d7de42027feffd7a24e1f3b2b880c[m
+Author: Abhishek Vinod <abishek.youth@gmail.com>
+Date:   Wed Oct 20 00:28:22 2021 +0530
+
+     my first commit
